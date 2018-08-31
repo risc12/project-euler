@@ -3,6 +3,7 @@ const { problem2 } = require('./problem2.js')
 const { problem3 } = require('./problem3.js')
 const { problem4 } = require('./problem4.js')
 const { problem5, problem5b } = require('./problem5.js')
+const { problem6 } = require('./problem6.js')
 
 try {
   // console.log('Problem 1', problem1());
